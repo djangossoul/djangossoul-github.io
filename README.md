@@ -1,1 +1,1 @@
-# djangossoul-github.io
+# djangossoul.github.io
