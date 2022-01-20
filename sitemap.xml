@@ -2,14 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>http://examplesite.com/en/sitemap.xml</loc>
+    <loc>https://djangossoul.github.io/en/sitemap.xml</loc>
     
       <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>http://examplesite.com/fr/sitemap.xml</loc>
+    <loc>https://djangossoul.github.io/fr/sitemap.xml</loc>
     
       <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     
