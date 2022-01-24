@@ -5,7 +5,11 @@
     <link>https://djangossoul.github.io/categories/</link>
     <description>Recent content in Categories on Vex | hugo landing page template</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Designed By [Themefisher](https://themefisher.com/) &amp; Developed By [Gethugothemes](https://gethugothemes.com/)</copyright><atom:link href="https://djangossoul.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr-fr</language>
+    <copyright>Conçu par [Themefisher](https://themefisher.com/) &amp; Développé par [Gethugothemes](https://gethugothemes.com/)</copyright>
+    
+	<atom:link href="https://djangossoul.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>

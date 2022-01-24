@@ -1,25 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Our Latest Post on Vex | hugo landing page template</title>
+    <title>Nos derniers articles on Vex | hugo landing page template</title>
     <link>https://djangossoul.github.io/blog/</link>
-    <description>Recent content in Our Latest Post on Vex | hugo landing page template</description>
+    <description>Recent content in Nos derniers articles on Vex | hugo landing page template</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Designed By [Themefisher](https://themefisher.com/) &amp; Developed By [Gethugothemes](https://gethugothemes.com/)</copyright>
-    <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate><atom:link href="https://djangossoul.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Best Watch Strap In Your Budget</title>
-      <link>https://djangossoul.github.io/blog/post-3/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      
-      <guid>https://djangossoul.github.io/blog/post-3/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
+    <language>fr-fr</language>
+    <copyright>Conçu par [Themefisher](https://themefisher.com/) &amp; Développé par [Gethugothemes](https://gethugothemes.com/)</copyright>
+    <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate>
+    
+	<atom:link href="https://djangossoul.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>How to choose right watch for you.</title>
+      <title>Comment choisir la bonne montre pour vous.</title>
       <link>https://djangossoul.github.io/blog/post-1/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
@@ -29,21 +23,31 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     </item>
     
     <item>
-      <title>Watch That Matters</title>
-      <link>https://djangossoul.github.io/blog/post-4/</link>
+      <title>Meilleur bracelet de montre dans votre budget</title>
+      <link>https://djangossoul.github.io/blog/post-3/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>https://djangossoul.github.io/blog/post-4/</guid>
+      <guid>https://djangossoul.github.io/blog/post-3/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
-      <title>Why You Should Buy a Smart Watch.</title>
+      <title>Pourquoi acheter une montre intelligente.</title>
       <link>https://djangossoul.github.io/blog/post-2/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
       <guid>https://djangossoul.github.io/blog/post-2/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Regardez ça compte</title>
+      <link>https://djangossoul.github.io/blog/post-4/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>https://djangossoul.github.io/blog/post-4/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>

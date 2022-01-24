@@ -1,0 +1,181 @@
+
+/* SPACING */
+:root, * {
+    --space-unit: 1em;
+    --space-xxxxs: calc(0.09 * var(--space-unit));
+    --space-xxxs: calc(0.146 * var(--space-unit));
+    --space-xxs: calc(0.236 * var(--space-unit));
+    --space-xs: calc(0.382 * var(--space-unit));
+    --space-sm: calc(0.618 * var(--space-unit));
+    --space-md: calc(1 * var(--space-unit));
+    --space-lg: calc(1.618 * var(--space-unit));
+    --space-xl: calc(2.618 * var(--space-unit));
+    --space-xxl: calc(4.236 * var(--space-unit));
+    --space-xxxl: calc(6.854 * var(--space-unit));
+    --space-xxxxl: calc(11.08 * var(--space-unit));
+    --component-padding: var(--space-md);
+}
+
+/* COLORS */
+:root, * {
+    --main-color: #FEFA37; /* rgb(254, 250, 55) */
+    --accent-color: #40D4DB; /* rgb(64, 212, 219) */
+    --accent-color2: #DFC6FF; /* rgb(223, 198, 255) */
+}
+
+.btn-main {
+    color: #000;
+    background-color: var(--main-color)!important;
+    box-shadow: 0 15px 40px rgb(254 250 55 / 50%);
+    background-image: linear-gradient(bottom,rgba(255,239,206,0) 0%,rgba(255,239,206,0.25) 100%);
+}
+
+.badge-primary {
+    color: #000;
+    background-color: var(--main-color)!important;
+}
+
+.bg-orange {
+    background: var(--accent-color);
+    background: -moz-linear-gradient(117deg, rgba(64,212,219,1) 0%, rgba(223,198,255,1) 50%);
+    background: -webkit-linear-gradient(117deg, rgba(64,212,219,1) 0%, rgba(223,198,255,1) 50%);
+    background: linear-gradient(117deg, rgba(64,212,219,1) 0%, rgba(223,198,255,1) 50%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#40d4db",endColorstr="#dfc6ff",GradientType=1);
+}
+
+.testimonials .testimonial-block i {
+    color: var(--main-color)!important;
+}
+
+.gallery .gallery-overlay .gallery-popup {
+    background : var(--accent-color)!important;
+}
+
+.link-title:hover {
+    color: var(--accent-color2)!important;
+}
+
+s.price {
+    color: var(--accent-color)!important;
+}
+
+/* TYPOGRAPHY */
+:root {
+    /* font family */
+    --font-primary: 'Playfair Display', serif;
+    --font-secondary: 'Roboto', sans-serif;
+    --font-special: 'Raleway', sans-serif;
+  
+    /* font size */
+    --text-base-size: 1em; /* body font-size */
+    --text-scale-ratio: 1.2; /* multiplier used to generate the type scale values 👇 */
+    
+    /* line-height */
+    --body-line-height: 1.4;
+    --heading-line-height: 1.2;
+    
+    /* capital letters - used in combo with the lhCrop mixin */
+    --font-primary-capital-letter: 1.5;
+    --font-secondary-capital-letter: 1;
+  
+    /* unit - don't modify unless you want to change the typography unit (e.g., from Em to Rem units) */
+    --text-unit: 1em; /* if not Em units → --text-unit: var(--text-base-size); */
+  }
+  
+:root, * {
+    /* type scale */
+    --text-xs: calc((var(--text-unit) / var(--text-scale-ratio)) / var(--text-scale-ratio));
+    --text-sm: calc(var(--text-xs) * var(--text-scale-ratio));
+    --text-md: calc(var(--text-sm) * var(--text-scale-ratio) * var(--text-scale-ratio));
+    --text-lg: calc(var(--text-md) * var(--text-scale-ratio));
+    --text-xl: calc(var(--text-lg) * var(--text-scale-ratio));
+    --text-xxl: calc(var(--text-xl) * var(--text-scale-ratio));
+    --text-xxxl: calc(var(--text-xxl) * var(--text-scale-ratio));
+    --text-xxxxl: calc(var(--text-xxxl) * var(--text-scale-ratio));
+}
+body, p {
+    font-family : var(--font-secondary)!important;
+    font-size: var(--text-md)!important;
+    line-height: var(--body-line-height)!important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family : var(--font-primary)!important;
+    line-height: var(--heading-line-height)!important;
+}
+h1, .font-size-60 {
+    font-size: var(--text-xxxxl)!important;
+}
+h2, h2.subheading, .heading h2 {
+    font-size: var(--text-xxxl)!important;
+}
+h3 {
+    font-size: var(--text-xxl)!important;
+}
+h4, h4.subheading {
+    font-size: var(--text-xl)!important;
+}
+h5 {
+    font-size: var(--text-lg)!important;
+}
+h6 {
+    font-size: var(--text-md)!important;
+}
+.navbar-nav {
+    font-family : var(--font-special)!important;
+}
+.nav-link {
+    font-size: var(--text-sm)*1.1!important;
+    font-weight: 400!important;
+}
+.subheading, .heading h2 {
+    text-transform: inherit !important;
+}
+
+.testimonial-block, #features .col-md-4 p, footer p.copyright-text {
+    font-size: var(--text-sm)!important;
+}
+footer p.copyright-text {
+    letter-spacing: 0px!important;
+    margin-top: 59px!important;
+}
+
+/* ICONS */
+
+/* BUTTONS */
+.btn-4 {
+    overflow: hidden;
+    position: relative;
+}
+.btn-4 span {
+    z-index: 20;
+}
+.btn-4:after {
+    background: #fff;
+    content: "";
+    height: 155px;
+    left: -75px;
+    opacity: 0.2;
+    position: absolute;
+    top: -50px;
+    transform: rotate(35deg);
+    transition: all 550ms cubic-bezier(0.19, 1, 0.22, 1);
+    width: 50px;
+    z-index: -10;
+}
+.btn-4:hover:after {
+    left: 120%;
+    transition: all 550ms cubic-bezier(0.19, 1, 0.22, 1);
+}
+
+/* FORMS */
+
+/* FIX */
+
+@media (max-width: 991px){
+    .cart {
+        top: unset!important;
+    }
+}
+
+/* OTHER */

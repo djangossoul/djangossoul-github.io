@@ -6,6 +6,10 @@
     <description>Recent content in Politique de confidentialité on Vex | hugo landing page template</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <copyright>Designed By [Themefisher](https://themefisher.com/) &amp; Developed By [Gethugothemes](https://gethugothemes.com/)</copyright><atom:link href="https://djangossoul.github.io/fr/privacy-policy/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Designed By [Themefisher](https://themefisher.com/) &amp; Developed By [Gethugothemes](https://gethugothemes.com/)</copyright>
+    
+	<atom:link href="https://djangossoul.github.io/fr/privacy-policy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>
