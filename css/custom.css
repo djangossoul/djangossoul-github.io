@@ -16,6 +16,10 @@
     --component-padding: var(--space-md);
 }
 
+#features.section {
+    padding: 100px 0 0!important;
+}
+
 /* COLORS */
 :root, * {
     --main-color: #FEFA37; /* rgb(254, 250, 55) */
@@ -143,7 +147,16 @@ footer p.copyright-text {
 /* ICONS */
 
 /* BUTTONS */
+.btn-main:hover, .btn-main:focus {
+    color: inherit!important;
+}
 .btn-4 {
+    color: #fff;
+    cursor: pointer;
+    position: relative;
+    text-decoration: none;
+    text-transform: uppercase;
+    width: 100%; 
     overflow: hidden;
     position: relative;
 }
@@ -151,7 +164,7 @@ footer p.copyright-text {
     z-index: 20;
 }
 .btn-4:after {
-    background: #fff;
+    background: #000;
     content: "";
     height: 155px;
     left: -75px;
