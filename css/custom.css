@@ -63,10 +63,17 @@ s.price {
     color: var(--accent-color)!important;
 }
 
+a {
+    color: var(--accent-color)!important;
+}
+a:hover {
+    color: var(--accent-color2)!important;
+}
+
 /* TYPOGRAPHY */
 :root {
     /* font family */
-    --font-primary: 'Playfair Display', serif;
+    --font-primary: 'Merriweather', serif;
     --font-secondary: 'Roboto', sans-serif;
     --font-special: 'Raleway', sans-serif;
   
@@ -106,6 +113,7 @@ body, p {
 h1, h2, h3, h4, h5, h6 {
     font-family : var(--font-primary)!important;
     line-height: var(--heading-line-height)!important;
+    letter-spacing: -2px!important;
 }
 h1, .font-size-60 {
     font-size: var(--text-xxxxl)!important;
@@ -142,6 +150,14 @@ h6 {
 footer p.copyright-text {
     letter-spacing: 0px!important;
     margin-top: 59px!important;
+}
+
+strong {
+    font-weight: 700!important;
+}
+
+ul {
+    list-style: square!important;
 }
 
 /* ICONS */
@@ -191,4 +207,38 @@ footer p.copyright-text {
     }
 }
 
+@media (max-width: 445px){
+    .navbar-brand img {
+        max-width: 150px!important;
+    }
+}
+
 /* OTHER */
+:root, * {
+    /* box shadow - 👇 uncomment to modify default shadow values */
+    --shadow-xs:  0 0.1px 0.3px rgba(0, 0, 0, 0.06),
+                  0 1px 2px rgba(0, 0, 0, 0.12);
+    --shadow-sm:  0 0.3px 0.4px rgba(0, 0, 0, 0.025),
+                  0 0.9px 1.5px rgba(0, 0, 0, 0.05), 
+                  0 3.5px 6px rgba(0, 0, 0, 0.1);
+    --shadow-md:  0 0.9px 1.5px rgba(0, 0, 0, 0.03), 
+                  0 3.1px 5.5px rgba(0, 0, 0, 0.08), 
+                  0 14px 25px rgba(0, 0, 0, 0.12);
+    --shadow-lg:  0 1.2px 1.9px -1px rgba(0, 0, 0, 0.014), 
+                  0 3.3px 5.3px -1px rgba(0, 0, 0, 0.038), 
+                  0 8.5px 12.7px -1px rgba(0, 0, 0, 0.085), 
+                  0 30px 42px -1px rgba(0, 0, 0, 0.15);
+    --shadow-xl:  0 1.5px 2.1px -6px rgba(0, 0, 0, 0.012), 
+                  0 3.6px 5.2px -6px rgba(0, 0, 0, 0.035), 
+                  0 7.3px 10.6px -6px rgba(0, 0, 0, 0.07), 
+                  0 16.2px 21.9px -6px rgba(0, 0, 0, 0.117), 
+                  0 46px 60px -6px rgba(0, 0, 0, 0.2);
+}
+
+header.bg-white, section.section:last-child, .section.testimonials {
+    box-shadow: var(--shadow-sm);
+}
+
+#features .icon img{
+    max-width: 100px!important;
+}

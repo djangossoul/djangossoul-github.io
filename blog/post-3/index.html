@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="fr-fr"><head>
   <meta charset="utf-8">
-  <title>Meilleur bracelet de montre dans votre budget</title>
+  <title>Hugo vs WordPress : le pour et le contre des générateurs de sites statiques</title>
 
   <!-- mobile responsive meta -->
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -11,7 +11,7 @@
 
   <!-- plugins -->
   
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Playfair&#43;Display:ital,wght@1,700&amp;family=Raleway:wght@300&amp;family=Roboto:wght@300&amp;display=swap ">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,700&amp;family=Raleway:wght@300&amp;family=Roboto:wght@300&amp;display=swap ">
   
   <link rel="stylesheet" href="https://djangossoul.github.io/plugins/bootstrap/bootstrap.min.css ">
   
@@ -36,9 +36,9 @@
   <link rel="icon" href="https://djangossoul.github.io/images/favicon.png " type="image/x-icon">
 
   
-  <meta property="og:image" content="https://djangossoul.github.io/images/showcase/showcase-3.png" />
+  <meta property="og:image" content="https://djangossoul.github.io/images/blog/post-3/1.jpg" />
   
-  <meta property="og:title" content="Meilleur bracelet de montre dans votre budget" />
+  <meta property="og:title" content="Hugo vs WordPress : le pour et le contre des générateurs de sites statiques" />
 <meta property="og:description" content="this is a meta description" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://djangossoul.github.io/blog/post-3/" />
@@ -79,10 +79,6 @@
           </li>
           
           <li class="nav-item">
-            <a class="nav-link" href="/#testimonial">Témoignages</a>
-          </li>
-          
-          <li class="nav-item">
             <a class="nav-link" href="https://djangossoul.github.io/contact">Contact</a>
           </li>
           
@@ -103,15 +99,54 @@
     <div class="row">
       <div class="col-md-5 mb-4 mb-md-0">
         <div class="sticky-image">
-          <img class="img-fluid w-100" src="https://djangossoul.github.io/images/showcase/showcase-3.png" alt="Meilleur bracelet de montre dans votre budget">
+          <img class="img-fluid w-100" src="https://djangossoul.github.io/images/blog/post-3/1.jpg" alt="Hugo vs WordPress : le pour et le contre des générateurs de sites statiques">
         </div>
       </div>
       <div class="col-lg-6 col-md-7 offset-lg-1">
-        <h1 class="mb-4">Meilleur bracelet de montre dans votre budget</h1>
+        <h1 class="mb-4">Hugo vs WordPress : le pour et le contre des générateurs de sites statiques</h1>
         <div class="content">
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborumLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+          <h2 id="what-is-a-static-site-generator">What is a static site generator?</h2>
+<p>A static site generator lets you generate a static website using data and templates. A static website is pre-rendered: all the files (HTML, CSS, Javascript and images) exist as is, and do not need to be processed on the server level. Content management systems like WordPress are called “dynamic” which means that the page content is processed (in WordPress’ case using PHP and MySQL) and the results of the processing outputs content on the web page.</p>
+<p>Because static sites are pre-rendered and don’t need to process code or query the database, they are generally significantly faster, and more stable than CMSs like WordPress.</p>
+<p>One you have generated your static site with a static site generator, you can then transfer the files to your live server. Some static site generator tools deploy your site directly to your server for you.</p>
+<p>The most popular static site generators are Hugo and Jekyll which let you create and edit content in text files with a text editor on your computer. One of the biggest drawbacks with systems like Jekyll and Hugo is that they lack a CMS (content management system). CMSs allow users to easily edit content in a WYSIWYG admin area, whereas with static site generators the user generally needs to be comfortable with Markdown, code and version control.</p>
+<p>You can read a more in-depth comparison of Jekyll and Hugo here.</p>
+<p>In order to get a better sense of whether a static generator tool is right for you, we’ve examined their advantages and disadvantages, especially in comparison to a CMS like WordPress.</p>
+<h2 id="pros">Pros</h2>
+<h3 id="1-speedy-fast-page-load">1. Speedy fast page load</h3>
+<p>As mentioned above, the pre-rendered static HTML of static sites loads much faster than the pages on a dynamic site. Fast websites are really important for a good user experience, and also for boosting your site in search engine rankings.</p>
+<h3 id="2-security">2. Security</h3>
+<p>Static sites by their very nature do not have databases. This means there’s no database to hack. The vast majority of hacks happen through the website database, so by removing it from the equation this also removes vulnerabilities such as SQL injections (SQLi), and Cross-site Scripting (XSS). Most attackers target websites that are built with the most popular Open Source software – since once they find a vulnerability, they can scale their attack across all the sites running on that software. By having a static site, you are removing 99.999% of your attack surface, thereby majorly limiting the chances of getting hacked.</p>
+<h3 id="3-performance">3. Performance</h3>
+<p>Because dynamic websites have to process content and query the database in order to render pages, they use a lot of server resources. As a result, a spike in traffic can overload the server and cause the site to slow to a painful crawl, or crash. Since there are no dynamic scripts running on a static site, and every page is pre-rendered, your site is less likely to go down when there’s a traffic spike.</p>
+<h3 id="4-host-your-site-anywhere">4. Host your site anywhere</h3>
+<p>Since your site is comprised entirely of HTML files, you can basically grab them and upload them wherever you fancy: Dropbox, Amazon, GitHub pages, Google Cloud…basically anywhere.</p>
+<h3 id="5-no-maintenance">5. No maintenance</h3>
+<p>There are no plugin or software updates that are required for keeping your site up-to-date and secure.</p>
+<h3 id="6-write-offline">6. Write offline</h3>
+<p>Since static site generators don’t need servers to update content, you don’t have to be connected to the internet when updating your site. You can save it offline and then publish later.</p>
+<h3 id="7-fast-content-creation">7. Fast content creation</h3>
+<p>Static site generators don’t have a backend where you edit your content. Instead, you’d need to use a text editor to edit files. Some developers find all that clicking around in a Dashboard inefficient and prefer Markdown to WYSIWYG editors. For others, this could be a major turnoff. However, with Gutenberg, you can now use Markdown in WordPress as well.</p>
+<h2 id="cons">Cons</h2>
+<h3 id="1-complicated-for-non-programmers">1. Complicated for Non-programmers</h3>
+<p>In order to use static site generators, you need to be a somewhat advanced developer and feel comfortable with command line and Markup in order to get everything set up. There isn’t an app with a one-click install like there is for WordPress.</p>
+<h3 id="2-no-cms-content-management-system-no-dashboard">2. No CMS (Content Management System). No Dashboard.</h3>
+<p>Jekyll and Hugo are popular static site generators, but they are not Content Management Systems (CMS) like WordPress. They don’t have an admin area where you can adjust role permissions, review other people’s content, etc.</p>
+<h3 id="3-publishing-the-site-requires-tools-and-code-on-your-computer">3. Publishing the site requires tools and code on your computer</h3>
+<p>If you want to publish new content using a static site generator, you’d need to do it from a computer that has the tools and environment needed for rebuilding and publishing the site. With WordPress, you can work on content from anywhere.</p>
+<h3 id="4-no-wysiwyg-editor--image-editor">4. No WYSIWYG Editor + Image Editor</h3>
+<p>Jekyll or Hugo requires adding content with Markdown in a text editor, and lacks an intuitive WordPress editor. Again, this could be a pro for some, a con for others. WordPress also lets you upload and edit images, which doesn’t exist in Jekyll/Hugo.</p>
+<h3 id="5-relatively-few-plugins-for-added-functionality">5. Relatively Few Plugins for Added Functionality</h3>
+<p>WordPress lets you add on tons of extra functionality with its massive library of plugins (55,527 and counting!) making it really easy to manage your SEO and other features. With Jekyll or Hugo, while there are some plugins, many features become very manual and time-consuming.</p>
+<h3 id="6-relatively-few-themes">6. Relatively Few Themes</h3>
+<p>WordPress has thousands of beautiful, professionally-developed themes (aka templates) for free, and thousands more paid themes. It’s easy to pick one and get started.</p>
+<h3 id="7-relatively-small-community">7. Relatively small community</h3>
+<p>There is a massive, helpful WordPress community, that can guide you along your website projects. The community for Jekyll or Hugo doesn’t have as big of a following.</p>
+<h3 id="8-no-server-side-functionality-which-is-needed-for-contact-forms-comments-and-search">8. No server-side functionality which is needed for contact forms, comments, and search</h3>
+<p>In order to have contact forms, comments, or search functionality on your site, you’d need to use a third-party solution for each.</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>Popular site generator tools like Hugo and Jekyll have a good end product – a static site – but they are missing all the benefits of WordPress – which makes it a pleasure to add and edit new content, and an established community to help you along the way.</p>
+<p>The advantages of a static site coupled with the benefits of WordPress are what inspired Strattic to offer a solution that does both, letting you have your cake and eat it too :).</p>
 
         </div>
       </div>
@@ -156,7 +191,7 @@
 
 
 
-<div hidden id="snipcart" data-api-key="ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4"></div>
+<div hidden id="snipcart" data-api-key="ODFlZDQ0ZTQtZTQ2YS00NjI1LThiOTctZTEyZTA5Y2IyN2UzNjM3Nzg2NDM5ODgwOTA1NDg4"></div>
 
 
 
