@@ -63,11 +63,15 @@ s.price {
     color: var(--accent-color)!important;
 }
 
-a {
+.content a:not(.btn):not(.link-title) {
     color: var(--accent-color)!important;
 }
-a:hover {
+.content a:not(.btn):not(.link-title):hover {
     color: var(--accent-color2)!important;
+}
+
+.content blockquote {
+    border-left: 5px solid var(--main-color);
 }
 
 /* TYPOGRAPHY */
@@ -156,7 +160,7 @@ strong {
     font-weight: 700!important;
 }
 
-ul {
+.content ul {
     list-style: square!important;
 }
 
