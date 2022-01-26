@@ -2,76 +2,76 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nos derniers articles on SUPERGREEN | Créateur de sites web écolos</title>
-    <link>https://djangossoul.github.io/blog/</link>
+    <link>https://supergreen.studio/blog/</link>
     <description>Recent content in Nos derniers articles on SUPERGREEN | Créateur de sites web écolos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <copyright>Conçu par [Themefisher](https://themefisher.com/) &amp; Développé par [Gethugothemes](https://gethugothemes.com/)</copyright>
     <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate>
     
-	<atom:link href="https://djangossoul.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://supergreen.studio/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>15 façons de rendre votre site web plus écolo</title>
-      <link>https://djangossoul.github.io/blog/post-1/</link>
+      <link>https://supergreen.studio/blog/post-1/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>https://djangossoul.github.io/blog/post-1/</guid>
+      <guid>https://supergreen.studio/blog/post-1/</guid>
       <description>Au cours des deux dernières années, nous avons beaucoup parlé de l&amp;rsquo;empreinte carbone des sites Web. L&amp;rsquo;impact carbone du web est en grande partie dû à la consommation d&#39;électricité.</description>
     </item>
     
     <item>
       <title>4 outils pour ajouter un formulaire à votre site web</title>
-      <link>https://djangossoul.github.io/blog/post-6/</link>
+      <link>https://supergreen.studio/blog/post-6/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>https://djangossoul.github.io/blog/post-6/</guid>
+      <guid>https://supergreen.studio/blog/post-6/</guid>
       <description>When I first started exploring the potential of static sites, I was attracted by their speed and simplicity. I knew these benefits came at a cost, however: since static sites can’t run backend code, there are limits to what you can accomplish with a static solution.</description>
     </item>
     
     <item>
       <title>Comment définir un budget de poids de page pour un site Web plus écologique et plus rapide</title>
-      <link>https://djangossoul.github.io/blog/post-4/</link>
+      <link>https://supergreen.studio/blog/post-4/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>https://djangossoul.github.io/blog/post-4/</guid>
+      <guid>https://supergreen.studio/blog/post-4/</guid>
       <description>Depuis mon adolescence, je m&amp;rsquo;intéresse à la fois au développement durable et au design. Lorsque j&amp;rsquo;ai cofondé Wholegrain Digital avec Vineeta il y a plus de dix ans, il était naturel que je souhaite que l&amp;rsquo;entreprise incarne mes intérêts et mes valeurs.</description>
     </item>
     
     <item>
       <title>Hugo vs WordPress : le pour et le contre des générateurs de sites statiques</title>
-      <link>https://djangossoul.github.io/blog/post-3/</link>
+      <link>https://supergreen.studio/blog/post-3/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>https://djangossoul.github.io/blog/post-3/</guid>
+      <guid>https://supergreen.studio/blog/post-3/</guid>
       <description>Qu&amp;rsquo;est-ce qu&amp;rsquo;un générateur de sites statiques ? Un générateur de sites statiques vous permet de générer un site Web statique à l&amp;rsquo;aide de données et de modèles.</description>
     </item>
     
     <item>
       <title>L&#39;éthique dans la conception de sites web</title>
-      <link>https://djangossoul.github.io/blog/post-2/</link>
+      <link>https://supergreen.studio/blog/post-2/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>https://djangossoul.github.io/blog/post-2/</guid>
+      <guid>https://supergreen.studio/blog/post-2/</guid>
       <description>L&#39;éthique dans la conception web n&amp;rsquo;est pas immédiatement évidente ou au premier plan de l&amp;rsquo;industrie, mais je crois que maintenant plus que jamais, l&#39;éthique est primordiale pour la conception de l&amp;rsquo;expérience numérique.</description>
     </item>
     
     <item>
       <title>Les 9 solutions ecommerce pour votre site statique</title>
-      <link>https://djangossoul.github.io/blog/post-5/</link>
+      <link>https://supergreen.studio/blog/post-5/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>https://djangossoul.github.io/blog/post-5/</guid>
+      <guid>https://supergreen.studio/blog/post-5/</guid>
       <description>9 Best eCommerce Solutions for your Websites Yes, you can give your audience a modern, personal, and fast shopping experience with Jamstack eCommerce.</description>
     </item>
     
     <item>
       <title>Les fonctionnalités indispensables à ajouter à votre site web statique</title>
-      <link>https://djangossoul.github.io/blog/post-7/</link>
+      <link>https://supergreen.studio/blog/post-7/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>https://djangossoul.github.io/blog/post-7/</guid>
+      <guid>https://supergreen.studio/blog/post-7/</guid>
       <description></description>
     </item>
     

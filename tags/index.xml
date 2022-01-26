@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on SUPERGREEN | Créateur de sites web écolos</title>
-    <link>https://djangossoul.github.io/tags/</link>
+    <link>https://supergreen.studio/tags/</link>
     <description>Recent content in Tags on SUPERGREEN | Créateur de sites web écolos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <copyright>Conçu par [Themefisher](https://themefisher.com/) &amp; Développé par [Gethugothemes](https://gethugothemes.com/)</copyright>
     
-	<atom:link href="https://djangossoul.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://supergreen.studio/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
