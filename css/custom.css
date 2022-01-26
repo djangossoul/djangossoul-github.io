@@ -121,9 +121,31 @@ h1, h2, h3, h4, h5, h6 {
 }
 h1, .font-size-60 {
     font-size: var(--text-xxxxl)!important;
+    text-transform: uppercase;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    color: black;
+    -webkit-text-fill-color: var(--main-color);
 }
 h2, h2.subheading, .heading h2 {
     font-size: var(--text-xxxl)!important;
+    text-transform: uppercase;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    color: black;
+    -webkit-text-fill-color: white;
+    position:relative;
+    display:inline-block;
+}
+h2:after, h2.subheading:after, .heading h2:after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    background: var(--main-color);
+    left: 0;
+    bottom: 15px;
+    height: .6em;
+    z-index: -1;
 }
 h3 {
     font-size: var(--text-xxl)!important;
@@ -171,7 +193,7 @@ strong {
     color: inherit!important;
 }
 .btn-4 {
-    color: #fff;
+    /*color: #fff;*/
     cursor: pointer;
     position: relative;
     text-decoration: none;
@@ -194,7 +216,7 @@ strong {
     transform: rotate(35deg);
     transition: all 550ms cubic-bezier(0.19, 1, 0.22, 1);
     width: 50px;
-    z-index: -10;
+    /*z-index: -10;*/
 }
 .btn-4:hover:after {
     left: 120%;
@@ -245,4 +267,11 @@ header.bg-white, section.section:last-child, .section.testimonials {
 
 #features .icon img{
     max-width: 100px!important;
+}
+
+.content table tbody {
+    background: transparent!important;
+}
+.content table {
+    font-size: smaller!important;
 }
