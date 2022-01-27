@@ -13,11 +13,29 @@
     
     
     <item>
-      <title>test</title>
-      <link>https://supergreen.studio/categories/test/</link>
+      <title>Design</title>
+      <link>https://supergreen.studio/categories/design/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>https://supergreen.studio/categories/test/</guid>
+      <guid>https://supergreen.studio/categories/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ecologie</title>
+      <link>https://supergreen.studio/categories/ecologie/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>https://supergreen.studio/categories/ecologie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technologie</title>
+      <link>https://supergreen.studio/categories/technologie/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>https://supergreen.studio/categories/technologie/</guid>
       <description></description>
     </item>
     

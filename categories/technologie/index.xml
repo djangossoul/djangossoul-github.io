@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technologie on SUPERGREEN | Créateur de sites web écolos</title>
+    <link>https://supergreen.studio/categories/technologie/</link>
+    <description>Recent content in Technologie on SUPERGREEN | Créateur de sites web écolos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <copyright>Conçu par [Themefisher](https://themefisher.com/) &amp; Développé par [Gethugothemes](https://gethugothemes.com/)</copyright>
+    <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate>
+    
+	<atom:link href="https://supergreen.studio/categories/technologie/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugo vs WordPress : le pour et le contre des générateurs de sites statiques</title>
+      <link>https://supergreen.studio/blog/post-3/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>https://supergreen.studio/blog/post-3/</guid>
+      <description>Qu&amp;rsquo;est-ce qu&amp;rsquo;un générateur de sites statiques ? Un générateur de sites statiques vous permet de générer un site Web statique à l&amp;rsquo;aide de données et de modèles.</description>
+    </item>
+    
+  </channel>
+</rss>
