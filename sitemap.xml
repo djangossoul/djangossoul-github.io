@@ -3,7 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://supergreen.studio/products/product-100/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://supergreen.studio/blog/post-1/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://supergreen.studio/products/product-101/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
@@ -18,7 +28,17 @@
   </url>
   
   <url>
+    <loc>https://supergreen.studio/categories/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://supergreen.studio/blog/post-4/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://supergreen.studio/types/design/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
@@ -118,7 +138,17 @@
   </url>
   
   <url>
+    <loc>https://supergreen.studio/types/service/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://supergreen.studio/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://supergreen.studio/categories/test/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
@@ -133,12 +163,13 @@
   </url>
   
   <url>
-    <loc>https://supergreen.studio/products/product-10/</loc>
+    <loc>https://supergreen.studio/types/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://supergreen.studio/categories/</loc>
+    <loc>https://supergreen.studio/products/product-10/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
   <url>
@@ -151,10 +182,6 @@
   
   <url>
     <loc>https://supergreen.studio/privacy-policy/</loc>
-  </url>
-  
-  <url>
-    <loc>https://supergreen.studio/tags/</loc>
   </url>
   
 </urlset>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Types on SUPERGREEN | Créateur de sites web écolos</title>
+    <link>https://supergreen.studio/types/</link>
+    <description>Recent content in Types on SUPERGREEN | Créateur de sites web écolos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <copyright>Conçu par [Themefisher](https://themefisher.com/) &amp; Développé par [Gethugothemes](https://gethugothemes.com/)</copyright>
+    <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate>
+    
+	<atom:link href="https://supergreen.studio/types/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>design</title>
+      <link>https://supergreen.studio/types/design/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>https://supergreen.studio/types/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Service</title>
+      <link>https://supergreen.studio/types/service/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>https://supergreen.studio/types/service/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,34 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tous nos derniers produits on SUPERGREEN | Créateur de sites web écolos</title>
-    <link>https://supergreen.studio/products/</link>
-    <description>Recent content in Tous nos derniers produits on SUPERGREEN | Créateur de sites web écolos</description>
+    <title>Design on SUPERGREEN | Créateur de sites web écolos</title>
+    <link>https://supergreen.studio/categories/design/</link>
+    <description>Recent content in Design on SUPERGREEN | Créateur de sites web écolos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <copyright>Conçu par [Themefisher](https://themefisher.com/) &amp; Développé par [Gethugothemes](https://gethugothemes.com/)</copyright>
     <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate>
     
-	<atom:link href="https://supergreen.studio/products/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://supergreen.studio/categories/design/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>1 heure de développement</title>
-      <link>https://supergreen.studio/products/product-100/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      
-      <guid>https://supergreen.studio/products/product-100/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>20 heures de développement</title>
-      <link>https://supergreen.studio/products/product-101/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      
-      <guid>https://supergreen.studio/products/product-101/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Andromeda</title>

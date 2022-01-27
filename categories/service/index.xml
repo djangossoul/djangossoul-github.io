@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on SUPERGREEN | Créateur de sites web écolos</title>
-    <link>https://supergreen.studio/categories/</link>
-    <description>Recent content in Categories on SUPERGREEN | Créateur de sites web écolos</description>
+    <title>Service on SUPERGREEN | Créateur de sites web écolos</title>
+    <link>https://supergreen.studio/categories/service/</link>
+    <description>Recent content in Service on SUPERGREEN | Créateur de sites web écolos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <copyright>Conçu par [Themefisher](https://themefisher.com/) &amp; Développé par [Gethugothemes](https://gethugothemes.com/)</copyright>
     <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate>
     
-	<atom:link href="https://supergreen.studio/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://supergreen.studio/categories/service/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>test</title>
-      <link>https://supergreen.studio/categories/test/</link>
+      <title>1 heure de développement</title>
+      <link>https://supergreen.studio/products/product-100/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>https://supergreen.studio/categories/test/</guid>
+      <guid>https://supergreen.studio/products/product-100/</guid>
       <description></description>
     </item>
     
