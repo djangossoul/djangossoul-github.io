@@ -13,21 +13,21 @@
     
     
     <item>
-      <title>design</title>
-      <link>https://supergreen.studio/types/design/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      
-      <guid>https://supergreen.studio/types/design/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Service</title>
+      <title>Nos services</title>
       <link>https://supergreen.studio/types/service/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
       <guid>https://supergreen.studio/types/service/</guid>
-      <description></description>
+      <description>Nous vous proposons de personnaliser votre site ou d&amp;rsquo;y ajouter des fonctionnalités ! Mais c&amp;rsquo;est vous qui choisissez le nombre d&amp;rsquo;heures de développements 😉</description>
+    </item>
+    
+    <item>
+      <title>Tous nos derniers designs</title>
+      <link>https://supergreen.studio/types/design/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>https://supergreen.studio/types/design/</guid>
+      <description>Retrouvez ici tous les designs disponibles pour votre futur site !! N&amp;rsquo;hésitez pas à ajouter quelques heures de développement pour personnaliser votre site web !</description>
     </item>
     
   </channel>
