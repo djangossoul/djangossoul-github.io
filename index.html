@@ -19,6 +19,8 @@
   
   <link rel="stylesheet" href="https://supergreen.studio/plugins/slick/slick.min.css ">
   
+  <link rel="stylesheet" href="https://supergreen.studio/plugins/lightbox/lightbox.min.css ">
+  
   <link rel="stylesheet" href="https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.css ">
   
 
@@ -29,7 +31,7 @@
   <!-- Custom CSS -->
   <link rel="stylesheet" href="https://supergreen.studio/css/custom.css">
   <!-- Custom Javascript -->
-  <script type="text/javascript" src="https://supergreen.studio/js/custom.js"></script>
+  <script defer type="text/javascript" src="https://supergreen.studio/js/custom.js"></script>
 
   <!--Favicon-->
   <link rel="shortcut icon" href="https://supergreen.studio/images/favicon.png " type="image/x-icon">
@@ -100,7 +102,7 @@
 					<p class="mb-4">Ce qui vous intéresse, a priori, c’est notre capacité à faire de vous une véritable marque green : une marque, un projet, des produits, qu&rsquo;on veut avoir près de soi&hellip; Maintenant et pour longtemps !</p>
 					
 					
-					<a href="https://supergreen.studio/products" class="btn btn-main">Choisir votre design</a>
+					<a href="https://supergreen.studio/products" class="btn btn-main btn-4" style="width:auto;">Choisir votre design</a>
 					
 					
 				</div>
@@ -561,7 +563,7 @@
                 
                 <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_1c241b4336307aa19c899db03_5560fbc199" tabindex="-1" value=""></div>
                 <div class="clear foot">
-                  <input type="submit" value='S&#39;abonner' name="subscribe" id="mc-embedded-subscribe" class="button btn btn-main btn-submit">
+                  <input type="submit" value='S&#39;abonner' name="subscribe" id="mc-embedded-subscribe" class="button btn btn-main btn-submit btn-4">
                 </div>
                 
               </div>
@@ -596,11 +598,11 @@
             </li>
             
             <li class="list-inline-item">
-              <a href="https://supergreen.studio/terms-conditions">Conditions de vente</a>
+              <a href="https://supergreen.studio/conditions-generales-de-vente">Conditions de vente</a>
             </li>
             
             <li class="list-inline-item">
-              <a href="https://supergreen.studio/privacy-policy">Politique de confidentialité</a>
+              <a href="https://supergreen.studio/politique-de-confidentialite">Politique de confidentialité</a>
             </li>
             
           </ul>
@@ -629,11 +631,27 @@
 
 <script src="https://supergreen.studio/plugins/slick/slick.min.js"></script>
 
+<script src="https://supergreen.studio/plugins/lightbox/lightbox.js"></script>
+
 <script src="https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.js"></script>
 
 
 
 
-<script src="https://supergreen.studio/js/script.js"></script></body>
+<script src="https://supergreen.studio/js/script.js"></script>
+
+<style>
+  .product-image-slider {
+    display: flex;
+}
+.product-image-slider .slick-list {
+    order: 2!important
+}
+.product-image-slider .slick-dots {
+    flex-direction: column!important;
+    order:1!important;
+    flex: 0 0 100px;
+}
+</style></body>
 
 </html>

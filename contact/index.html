@@ -19,6 +19,8 @@
   
   <link rel="stylesheet" href="https://supergreen.studio/plugins/slick/slick.min.css ">
   
+  <link rel="stylesheet" href="https://supergreen.studio/plugins/lightbox/lightbox.min.css ">
+  
   <link rel="stylesheet" href="https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.css ">
   
 
@@ -29,7 +31,7 @@
   <!-- Custom CSS -->
   <link rel="stylesheet" href="https://supergreen.studio/css/custom.css">
   <!-- Custom Javascript -->
-  <script type="text/javascript" src="https://supergreen.studio/js/custom.js"></script>
+  <script defer type="text/javascript" src="https://supergreen.studio/js/custom.js"></script>
 
   <!--Favicon-->
   <link rel="shortcut icon" href="https://supergreen.studio/images/favicon.png " type="image/x-icon">
@@ -147,7 +149,7 @@
             <textarea name="message" id="message" class="form-control mb-2" placeholder='Votre message'></textarea>
           </div>
           <div class="col-12 text-right">
-            <button type="submit" value="send" class="btn btn-main btn-main-sm">Envoyer maintenant</button>
+            <button type="submit" value="send" class="btn btn-main btn-main-sm btn-4">Envoyer maintenant</button>
           </div>
         </form>
       </div>
@@ -172,11 +174,11 @@
             </li>
             
             <li class="list-inline-item">
-              <a href="https://supergreen.studio/terms-conditions">Conditions de vente</a>
+              <a href="https://supergreen.studio/conditions-generales-de-vente">Conditions de vente</a>
             </li>
             
             <li class="list-inline-item">
-              <a href="https://supergreen.studio/privacy-policy">Politique de confidentialité</a>
+              <a href="https://supergreen.studio/politique-de-confidentialite">Politique de confidentialité</a>
             </li>
             
           </ul>
@@ -205,11 +207,27 @@
 
 <script src="https://supergreen.studio/plugins/slick/slick.min.js"></script>
 
+<script src="https://supergreen.studio/plugins/lightbox/lightbox.js"></script>
+
 <script src="https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.js"></script>
 
 
 
 
-<script src="https://supergreen.studio/js/script.js"></script></body>
+<script src="https://supergreen.studio/js/script.js"></script>
+
+<style>
+  .product-image-slider {
+    display: flex;
+}
+.product-image-slider .slick-list {
+    order: 2!important
+}
+.product-image-slider .slick-dots {
+    flex-direction: column!important;
+    order:1!important;
+    flex: 0 0 100px;
+}
+</style></body>
 
 </html>

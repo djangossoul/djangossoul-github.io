@@ -19,6 +19,8 @@
   
   <link rel="stylesheet" href="https://supergreen.studio/plugins/slick/slick.min.css ">
   
+  <link rel="stylesheet" href="https://supergreen.studio/plugins/lightbox/lightbox.min.css ">
+  
   <link rel="stylesheet" href="https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.css ">
   
 
@@ -29,7 +31,7 @@
   <!-- Custom CSS -->
   <link rel="stylesheet" href="https://supergreen.studio/css/custom.css">
   <!-- Custom Javascript -->
-  <script type="text/javascript" src="https://supergreen.studio/js/custom.js"></script>
+  <script defer type="text/javascript" src="https://supergreen.studio/js/custom.js"></script>
 
   <!--Favicon-->
   <link rel="shortcut icon" href="https://supergreen.studio/images/favicon.png " type="image/x-icon">
@@ -107,7 +109,7 @@
         <div class="content">
           <h4 class="subheading"><a class="link-title" href="https://supergreen.studio/blog/post-1/">15 façons de rendre votre site web plus écolo</a></h4>
           <p>Au cours des deux dernières années, nous avons beaucoup parlé de l&rsquo;empreinte carbone des sites Web. L&rsquo;impact carbone du web est en grande partie dû à la consommation d'électricité.</p>
-          <a href="https://supergreen.studio/blog/post-1/" class="btn btn-main btn-main-sm">En lire plus</a>
+          <a href="https://supergreen.studio/blog/post-1/" class="btn btn-main btn-main-sm btn-4" >En lire plus</a>
         </div>
       </div>
     </div>
@@ -117,7 +119,7 @@
         <div class="content">
           <h4 class="subheading"><a class="link-title" href="https://supergreen.studio/blog/post-4/">Comment définir un budget de poids de page pour un site Web plus écologique et plus rapide</a></h4>
           <p>Depuis mon adolescence, je m&rsquo;intéresse à la fois au développement durable et au design. Lorsque j&rsquo;ai cofondé Wholegrain Digital avec Vineeta il y a plus de dix ans, il était naturel que je souhaite que l&rsquo;entreprise incarne mes intérêts et mes valeurs.</p>
-          <a href="https://supergreen.studio/blog/post-4/" class="btn btn-main btn-main-sm">En lire plus</a>
+          <a href="https://supergreen.studio/blog/post-4/" class="btn btn-main btn-main-sm btn-4">En lire plus</a>
         </div>
       </div>
       <div class="col-md-6 order-md-2 order-1 text-center mb-5 mb-lg-0">
@@ -134,7 +136,7 @@
         <div class="content">
           <h4 class="subheading"><a class="link-title" href="https://supergreen.studio/blog/post-3/">Hugo vs WordPress : le pour et le contre des générateurs de sites statiques</a></h4>
           <p>Qu&rsquo;est-ce qu&rsquo;un générateur de sites statiques ? Un générateur de sites statiques vous permet de générer un site Web statique à l&rsquo;aide de données et de modèles.</p>
-          <a href="https://supergreen.studio/blog/post-3/" class="btn btn-main btn-main-sm">En lire plus</a>
+          <a href="https://supergreen.studio/blog/post-3/" class="btn btn-main btn-main-sm btn-4" >En lire plus</a>
         </div>
       </div>
     </div>
@@ -144,7 +146,7 @@
         <div class="content">
           <h4 class="subheading"><a class="link-title" href="https://supergreen.studio/blog/post-2/">L'éthique dans la conception de sites web</a></h4>
           <p>L'éthique dans la conception web n&rsquo;est pas immédiatement évidente ou au premier plan de l&rsquo;industrie, mais je crois que maintenant plus que jamais, l'éthique est primordiale pour la conception de l&rsquo;expérience numérique.</p>
-          <a href="https://supergreen.studio/blog/post-2/" class="btn btn-main btn-main-sm">En lire plus</a>
+          <a href="https://supergreen.studio/blog/post-2/" class="btn btn-main btn-main-sm btn-4">En lire plus</a>
         </div>
       </div>
       <div class="col-md-6 order-md-2 order-1 text-center mb-5 mb-lg-0">
@@ -173,11 +175,11 @@
             </li>
             
             <li class="list-inline-item">
-              <a href="https://supergreen.studio/terms-conditions">Conditions de vente</a>
+              <a href="https://supergreen.studio/conditions-generales-de-vente">Conditions de vente</a>
             </li>
             
             <li class="list-inline-item">
-              <a href="https://supergreen.studio/privacy-policy">Politique de confidentialité</a>
+              <a href="https://supergreen.studio/politique-de-confidentialite">Politique de confidentialité</a>
             </li>
             
           </ul>
@@ -206,11 +208,27 @@
 
 <script src="https://supergreen.studio/plugins/slick/slick.min.js"></script>
 
+<script src="https://supergreen.studio/plugins/lightbox/lightbox.js"></script>
+
 <script src="https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.js"></script>
 
 
 
 
-<script src="https://supergreen.studio/js/script.js"></script></body>
+<script src="https://supergreen.studio/js/script.js"></script>
+
+<style>
+  .product-image-slider {
+    display: flex;
+}
+.product-image-slider .slick-list {
+    order: 2!important
+}
+.product-image-slider .slick-dots {
+    flex-direction: column!important;
+    order:1!important;
+    flex: 0 0 100px;
+}
+</style></body>
 
 </html>

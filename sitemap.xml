@@ -234,7 +234,13 @@
   </url>
   
   <url>
-    <loc>https://supergreen.studio/terms-conditions/</loc>
+    <loc>https://supergreen.studio/comment-ca-marche/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://supergreen.studio/conditions-generales-de-vente/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -246,7 +252,19 @@
   </url>
   
   <url>
-    <loc>https://supergreen.studio/privacy-policy/</loc>
+    <loc>https://supergreen.studio/legal/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://supergreen.studio/politique-de-confidentialite/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://supergreen.studio/usages/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
