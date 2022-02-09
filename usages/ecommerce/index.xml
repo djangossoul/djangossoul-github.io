@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ecommerce on SUPERGREEN | Créateur de sites web écolos</title>
+    <link>https://supergreen.studio/usages/ecommerce/</link>
+    <description>Recent content in ecommerce on SUPERGREEN | Créateur de sites web écolos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <copyright>Conçu par [Themefisher](https://themefisher.com/) &amp; Développé par [Gethugothemes](https://gethugothemes.com/)</copyright>
+    <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate>
+    
+	<atom:link href="https://supergreen.studio/usages/ecommerce/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hargo</title>
+      <link>https://supergreen.studio/products/product-2/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>https://supergreen.studio/products/product-2/</guid>
+      <description>Hargo est un thème de boutique en ligne moderne, épuré et frais pour Hugo. Ce thème e-commerce est parfait pour les produits naturels, mais peut également être utilisé avec d&amp;rsquo;autres types de produits.</description>
+    </item>
+    
+    <item>
+      <title>Hugo Serif</title>
+      <link>https://supergreen.studio/products/product-17/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>https://supergreen.studio/products/product-17/</guid>
+      <description>Serif est un thème commercial moderne pour Hugo. Il contient plusieurs types de contenu et de pages. Le thème est entièrement responsive, très rapide et illustré de manière artistique.</description>
+    </item>
+    
+    <item>
+      <title>Influencer</title>
+      <link>https://supergreen.studio/products/product-3/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>https://supergreen.studio/products/product-3/</guid>
+      <description>Influencer est un thème responsive moderne et élégant conçu pour les auteurs de livres et les écrivains. Avec le support intégré de SnipCart pour les paiements et des shortcodes pour chaque besoin - spécifiquement créé pour les auteurs de livres et les auteurs, c&amp;rsquo;est le package parfait pour vendre et présenter votre livre.</description>
+    </item>
+    
+    <item>
+      <title>Planty</title>
+      <link>https://supergreen.studio/products/product-8/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>https://supergreen.studio/products/product-8/</guid>
+      <description>Planty est un thème personnalisé prêt pour le commerce électronique pour Stackbit créé par Snipcart. Ce thème peut être utilisé pour créer un site web prêt pour le commerce électronique via la plateforme de Stackbit.</description>
+    </item>
+    
+    <item>
+      <title>Vex</title>
+      <link>https://supergreen.studio/products/product-10/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>https://supergreen.studio/products/product-10/</guid>
+      <description>Vex est un thème de commerce électronique polyvalent et propre qui rend la création de votre première boutique en ligne plus facile que jamais.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>portfolio on SUPERGREEN | Créateur de sites web écolos</title>
+    <link>https://supergreen.studio/usages/portfolio/</link>
+    <description>Recent content in portfolio on SUPERGREEN | Créateur de sites web écolos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <copyright>Conçu par [Themefisher](https://themefisher.com/) &amp; Développé par [Gethugothemes](https://gethugothemes.com/)</copyright>
+    <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate>
+    
+	<atom:link href="https://supergreen.studio/usages/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kross</title>
+      <link>https://supergreen.studio/products/product-11/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>https://supergreen.studio/products/product-11/</guid>
+      <description>Kross est un modèle de site Web de portefeuille personnel créatif, élégant et moderne avec une apparence magnifique. Conçu pour les débutants, Kross est très facile à utiliser et construit avec un style de codage propre et valide.</description>
+    </item>
+    
+    <item>
+      <title>Meghna</title>
+      <link>https://supergreen.studio/products/product-4/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>https://supergreen.studio/products/product-4/</guid>
+      <description>Meghna est un mdesign à page unique sombre et conçu avec tous les éléments et fonctionnalités nécessaires dont vous aurez besoin pour présenter votre entreprise.</description>
+    </item>
+    
+    <item>
+      <title>Navigator</title>
+      <link>https://supergreen.studio/products/product-5/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>https://supergreen.studio/products/product-5/</guid>
+      <description>Navigator est un template polyvalent, moderne et propre, optimisé par Bootstrap4. Construit avec des éléments raffinés d&amp;rsquo;affaires ainsi que d&amp;rsquo;entreprise, et saturé de typographie riche, Navigator est léger, à chargement rapide, responsive et validé par le W3C, offrant une grande première impression aux visiteurs.</description>
+    </item>
+    
+    <item>
+      <title>Omega</title>
+      <link>https://supergreen.studio/products/product-16/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>https://supergreen.studio/products/product-16/</guid>
+      <description>  </description>
+    </item>
+    
+    <item>
+      <title>Raditian</title>
+      <link>https://supergreen.studio/products/product-9/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>https://supergreen.studio/products/product-9/</guid>
+      <description>Un thème Hugo moderne, rapide, frais et bien sûr réactif.</description>
+    </item>
+    
+    <item>
+      <title>Restaurants</title>
+      <link>https://supergreen.studio/products/product-6/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>https://supergreen.studio/products/product-6/</guid>
+      <description>Le restaurant est un thème de site web de restaurant créatif et réactif dans un environnement Hugo. C&amp;rsquo;est un thème très bien décoré qui facilitera la création de votre site web.</description>
+    </item>
+    
+    <item>
+      <title>Timer</title>
+      <link>https://supergreen.studio/products/product-7/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>https://supergreen.studio/products/product-7/</guid>
+      <description>Timer est un template d&amp;rsquo;agence multi-pages responsive basé sur bootstrap, construit à l&amp;rsquo;aide des fonctionnalités HTML5/CSS3 et adapté aux entreprises créatives, aux agences et aux freelances qui ont besoin d&amp;rsquo;un moyen professionnel de présenter leurs projets, leurs services et de vendre leurs produits.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -31,6 +31,13 @@
   </url>
   
   <url>
+    <loc>https://supergreen.studio/usages/blog/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://supergreen.studio/categories/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -52,6 +59,13 @@
   </url>
   
   <url>
+    <loc>https://supergreen.studio/usages/documentation/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://supergreen.studio/products/product-1/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -60,6 +74,13 @@
   
   <url>
     <loc>https://supergreen.studio/categories/ecologie/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://supergreen.studio/usages/ecommerce/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -171,6 +192,13 @@
   </url>
   
   <url>
+    <loc>https://supergreen.studio/usages/portfolio/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://supergreen.studio/products/product-9/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -179,6 +207,13 @@
   
   <url>
     <loc>https://supergreen.studio/products/product-6/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://supergreen.studio/usages/service/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -227,7 +262,21 @@
   </url>
   
   <url>
+    <loc>https://supergreen.studio/usages/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://supergreen.studio/products/product-10/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://supergreen.studio/usages/%C3%A9v%C3%A9nement/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -259,12 +308,6 @@
   
   <url>
     <loc>https://supergreen.studio/politique-de-confidentialite/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://supergreen.studio/usages/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

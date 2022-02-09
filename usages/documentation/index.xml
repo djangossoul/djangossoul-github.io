@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>documentation on SUPERGREEN | Créateur de sites web écolos</title>
+    <link>https://supergreen.studio/usages/documentation/</link>
+    <description>Recent content in documentation on SUPERGREEN | Créateur de sites web écolos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <copyright>Conçu par [Themefisher](https://themefisher.com/) &amp; Développé par [Gethugothemes](https://gethugothemes.com/)</copyright>
+    <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate>
+    
+	<atom:link href="https://supergreen.studio/usages/documentation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dot</title>
+      <link>https://supergreen.studio/products/product-1/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>https://supergreen.studio/products/product-1/</guid>
+      <description>Dot est un thème de documentation très réactif et avec une fière allure. La fiabilité et la propreté sont les caractéristiques clés de ce thème.</description>
+    </item>
+    
+    <item>
+      <title>Educenter</title>
+      <link>https://supergreen.studio/products/product-13/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>https://supergreen.studio/products/product-13/</guid>
+      <description>Educenter est un thème éducatif Hugo élégant et contemporain, qui a été parfaitement conçu pour les centres d&#39;éducation de toutes sortes.</description>
+    </item>
+    
+  </channel>
+</rss>
